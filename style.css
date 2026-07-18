@@ -4,7 +4,7 @@
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
     background-color:#0a9396;
-    color: #f1faee;
+    color:white;
 }
 
 
@@ -17,7 +17,7 @@
 }
 
 div {
-    border: 2px solid black;
+    /* border: 2px solid black; */
     padding: 20px 30px ;
     background-color: #ffbe0b;
     border-radius: 10px ;
@@ -26,7 +26,7 @@ div {
 
 
 .container h2, h1, h3, h5, p  {
-border: 2px solid black;
+/* border: 2px solid black; */
 margin: 20px 0px;
 padding: 10px 10px ;
 border-radius: 10px;
@@ -44,6 +44,8 @@ ul li {
 }
 ul li {
     list-style: none;
+    margin-top: 15px;
+    padding: 10px 20px;
 }
 
 .S {
